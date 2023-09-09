@@ -1,27 +1,27 @@
 {
 	"slide_images":[
-	{"image_url":"",
+	{"image_url":"https://my-test-11.slatic.net/p/66f1154bad6c79ba34d21fb324539404.jpg",
 	"redirect_url":""}
 	],
-	"show_title_1":"",
-	"folder_1":"",
-	"api_title_1":"",
+	"show_title_1":"1",
+	"folder_1":"All%20Movies%20JSON",
+	"api_title_1":"all_movie",
 	
-	"show_title_2":"",
-	"folder_2":"",
-	"api_title_2":"",
+	"show_title_2":"2",
+	"folder_2":"All%20Movies%20JSON",
+	"api_title_2":"all_movie",
 	
-	"show_title_3":"",
-	"folder_3":"",
-	"api_title_3":"",
+	"show_title_3":"3",
+	"folder_3":"All%20Movies%20JSON",
+	"api_title_3":"all_movie",
 	
-	"show_title_4":"",
-	"folder_4":"",
-	"api_title_4":"",
+	"show_title_4":"4",
+	"folder_4":"All%20Movies%20JSON",
+	"api_title_4":"all_movie",
 	
-	"show_title_5":"",
-	"folder_5":"",
-	"api_title_5":"",
+	"show_title_5":"4",
+	"folder_5":"All%20Movies%20JSON",
+	"api_title_5":"all_movie",
 	
     "update_title":"",
 	"update_icon":"",
