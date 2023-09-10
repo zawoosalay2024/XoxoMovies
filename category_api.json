@@ -20,6 +20,13 @@
 	"total_movies":"",
 	"folder_name":"Drama%20Movies%20JSON",
 	"category_file_title":"drama_movie"
+	},
+	{
+	"thumbnail":"https://cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/QUFCXOYQSMFY5DCGU36E7MCKOA.jpg",
+	"title":"Comedy Movies",
+	"total_movies":"",
+	"folder_name":"Comedy%20Movies%20JSON",
+	"category_file_title":"comedy_movie"
 	}
 
 		
