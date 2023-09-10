@@ -13,6 +13,13 @@
 	"total_movies":"",
 	"folder_name":"Action%20Movies%20JSON",
 	"category_file_title":"action_movie"
+	},
+	{
+	"thumbnail":"https://images.lifestyleasia.com/wp-content/uploads/sites/2/2022/08/09111434/k-drama-piller-page-cover.jpg",
+	"title":"Drama Movies",
+	"total_movies":"",
+	"folder_name":"Drama%20Movies%20JSON",
+	"category_file_title":"drama_movie"
 	}
 
 		
