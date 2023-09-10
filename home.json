@@ -3,13 +3,13 @@
 	{"image_url":"https://my-test-11.slatic.net/p/66f1154bad6c79ba34d21fb324539404.jpg",
 	"redirect_url":""}
 	],
-	"show_title_1":"1",
+	"show_title_1":"Home Movie",
 	"folder_1":"All%20Movies%20JSON",
 	"api_title_1":"all_movie",
 	
-	"show_title_2":"2",
-	"folder_2":"All%20Movies%20JSON",
-	"api_title_2":"all_movie",
+	"show_title_2":"Action Movie",
+	"folder_2":"Action%20Movies%20JSON",
+	"api_title_2":"action_movie",
 	
 	"show_title_3":"3",
 	"folder_3":"All%20Movies%20JSON",
