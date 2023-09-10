@@ -1,11 +1,20 @@
 {
 	"category":[
 	{
-	"thumbnail":"",
-	"title":"All Movies",
+	"thumbnail":"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioUPyn34M7Hc/v0/-1x-1.jpg",
+	"title":"Home Movies",
 	"total_movies":"",
 	"folder_name":"All%20Movies%20JSON",
 	"category_file_title":"all_movie"
-	} 
+	},
+	{
+	"thumbnail":"https://i.ytimg.com/vi/iPSF3xGKFGg/hqdefault.jpg",
+	"title":"Action Movies",
+	"total_movies":"",
+	"folder_name":"Action%20Movies%20JSON",
+	"category_file_title":"action_movie"
+	}
+
+		
 	]
 }
