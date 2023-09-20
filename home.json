@@ -6,7 +6,13 @@
 	"custom_adviews":[
 	{"image_url":"https://play-lh.googleusercontent.com/s4T-N9yIKlhlTKcKI7pcek-RXeDGpg_hQOv25znLl-rF2eRLxNYSb6Fqust5p4W7PA=w240-h480-rw",
 	"title":"Ak Tv App",
-	"url":"https://play.google.com/store/apps/details?id=com.lotee.aktv&hl=en_US"}
+	"url":"https://play.google.com/store/apps/details?id=com.lotee.aktv&hl=en_US"},
+	{"image_url":"https://play-lh.googleusercontent.com/uIcvgk8haGqcrOn5VflTydEW8LrmGFQkDe5VkLifCpnQi4meReASMO3ZJ0VFHhlsTcQ=s64-rw",
+	"title":"Dark Site",
+	"url":"https://play.google.com/store/apps/details?id=com.plustv.nk"},
+	{"image_url":"https://play-lh.googleusercontent.com/ErrY6tzHNKKZIsTqoa9Lz4qQxlYzjglV3deYvzMLgSv-CYqP1hjcEAC4C7odbDYu8g=s64-rw",
+	"title":"Dark Plus",
+	"url":"https://play.google.com/store/apps/details?id=com.my.DarkPlusMovie"}
 	],
 	"show_title_1":"Home Movie",
 	"folder_1":"All%20Movies%20JSON",
