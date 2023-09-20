@@ -3,6 +3,11 @@
 	{"image_url":"https://my-test-11.slatic.net/p/66f1154bad6c79ba34d21fb324539404.jpg",
 	"redirect_url":""}
 	],
+	"custom_adviews":[
+	{"image_url":"https://play-lh.googleusercontent.com/s4T-N9yIKlhlTKcKI7pcek-RXeDGpg_hQOv25znLl-rF2eRLxNYSb6Fqust5p4W7PA=w240-h480-rw",
+	"title":"Ak Tv App",
+	"url":"https://play.google.com/store/apps/details?id=com.lotee.aktv&hl=en_US"}
+	],
 	"show_title_1":"Home Movie",
 	"folder_1":"All%20Movies%20JSON",
 	"api_title_1":"all_movie",
