@@ -1,34 +1,214 @@
 {
-	"slide_images":[
-	{"image_url":"https://my-test-11.slatic.net/p/66f1154bad6c79ba34d21fb324539404.jpg",
-	"redirect_url":""}
-	],
-	"show_title_1":"Home Movie",
-	"folder_1":"All%20Movies%20JSON",
-	"api_title_1":"all_movie",
-	
-	"show_title_2":"Action Movie",
-	"folder_2":"Action%20Movies%20JSON",
-	"api_title_2":"action_movie",
-	
-	"show_title_3":"Drama Movie",
-	"folder_3":"Drama%20Movies%20JSON",
-	"api_title_3":"drama_movie",
-	
-	"show_title_4":"Comedy",
-	"folder_4":"Comedy%20Movies%20JSON",
-	"api_title_4":"comedy_movie",
-	
-	"show_title_5":"Animation",
-	"folder_5":"Animation%20Movies%20JSON",
-	"api_title_5":"animation_movie",
-	
-    "update_title":"",
-	"update_icon":"",
-    "update_message":"",
-	"update_force":false,
-    "update_versionCode":1,
-    "playstore_link":"", 
-    "download_link":""
-	
+   "slide_images":[
+      {
+         "image_url":"https://my-test-11.slatic.net/p/66f1154bad6c79ba34d21fb324539404.jpg",
+         "redirect_url":""
+      }
+   ],
+   "custom_adviews":[
+      {
+         "image_url":"https://play-lh.googleusercontent.com/s4T-N9yIKlhlTKcKI7pcek-RXeDGpg_hQOv25znLl-rF2eRLxNYSb6Fqust5p4W7PA=w240-h480-rw",
+         "title":"Ak Tv App,download and watch,Have a good day",
+         "actiontitle":"Install",
+         "url":"https://play.google.com/store/apps/details?id=com.lotee.aktv&hl=en_US"
+      },
+      {
+         "image_url":"https://play-lh.googleusercontent.com/uIcvgk8haGqcrOn5VflTydEW8LrmGFQkDe5VkLifCpnQi4meReASMO3ZJ0VFHhlsTcQ=s64-rw",
+         "title":"Dark Site",
+         "actiontitle":"Install",
+         "url":"https://play.google.com/store/apps/details?id=com.plustv.nk"
+      },
+      {
+         "image_url":"https://play-lh.googleusercontent.com/ErrY6tzHNKKZIsTqoa9Lz4qQxlYzjglV3deYvzMLgSv-CYqP1hjcEAC4C7odbDYu8g=s64-rw",
+         "title":"Dark Plus",
+         "actiontitle":"Install",
+         "url":"https://play.google.com/store/apps/details?id=com.my.DarkPlusMovie"
+      },
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/9hDKdsVj5FdHEAydY9g6Nn-1200-80.jpg.webp",
+         "title":"League of Legends",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      },
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/7WnKUThZMhp6MeNfdzgnnC-1200-80.jpg.webp",
+         "title":"Valheim",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      },
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/ht3ETkC3NzuGnA9sZYCRkX-1200-80.jpg.webp",
+         "title":"Valorant",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      },
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
+         "title":"No Man's Sky",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      }
+   ],
+   "service_adviews":[
+      {
+         "image_url":"https://play-lh.googleusercontent.com/s4T-N9yIKlhlTKcKI7pcek-RXeDGpg_hQOv25znLl-rF2eRLxNYSb6Fqust5p4W7PA=w240-h480-rw",
+         "title":"Ak Tv App,download and watch,Have a good day",
+         "actiontitle":"Install",
+         "url":"https://play.google.com/store/apps/details?id=com.lotee.aktv&hl=en_US"
+      },
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/9hDKdsVj5FdHEAydY9g6Nn-1200-80.jpg.webp",
+         "title":"League of Legends",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      },
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/7WnKUThZMhp6MeNfdzgnnC-1200-80.jpg.webp",
+         "title":"Valheim",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      },
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/ht3ETkC3NzuGnA9sZYCRkX-1200-80.jpg.webp",
+         "title":"Valorant",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      },
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
+         "title":"No Man's Sky",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      }
+   ],
+   "end_adviews":[
+      {
+         "image_url":"https://play-lh.googleusercontent.com/s4T-N9yIKlhlTKcKI7pcek-RXeDGpg_hQOv25znLl-rF2eRLxNYSb6Fqust5p4W7PA=w240-h480-rw",
+         "title":"Ak Tv App,download and watch,Have a good day",
+         "actiontitle":"Install",
+         "url":"https://play.google.com/store/apps/details?id=com.lotee.aktv&hl=en_US"
+      },
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/9hDKdsVj5FdHEAydY9g6Nn-1200-80.jpg.webp",
+         "title":"League of Legends",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      },
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/7WnKUThZMhp6MeNfdzgnnC-1200-80.jpg.webp",
+         "title":"Valheim",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      },
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/ht3ETkC3NzuGnA9sZYCRkX-1200-80.jpg.webp",
+         "title":"Valorant",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      },
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
+         "title":"No Man's Sky",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      }
+   ],
+   "player_top_adviews":[
+      {
+         "image_url":"https://play-lh.googleusercontent.com/s4T-N9yIKlhlTKcKI7pcek-RXeDGpg_hQOv25znLl-rF2eRLxNYSb6Fqust5p4W7PA=w240-h480-rw",
+         "title":"Ak Tv App,download and watch,Have a good day",
+         "actiontitle":"Install",
+         "url":"https://play.google.com/store/apps/details?id=com.lotee.aktv&hl=en_US"
+      },
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/9hDKdsVj5FdHEAydY9g6Nn-1200-80.jpg.webp",
+         "title":"League of Legends",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      },
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/7WnKUThZMhp6MeNfdzgnnC-1200-80.jpg.webp",
+         "title":"Valheim",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      },
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/ht3ETkC3NzuGnA9sZYCRkX-1200-80.jpg.webp",
+         "title":"Valorant",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      },
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
+         "title":"No Man's Sky",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      }
+   ],
+    "player_loader_adviews":[
+      {
+         "image_url":"https://play-lh.googleusercontent.com/s4T-N9yIKlhlTKcKI7pcek-RXeDGpg_hQOv25znLl-rF2eRLxNYSb6Fqust5p4W7PA=w240-h480-rw",
+         "title":"Ak Tv App,download and watch,Have a good day",
+         "actiontitle":"Install",
+         "url":"https://play.google.com/store/apps/details?id=com.lotee.aktv&hl=en_US"
+      },
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/9hDKdsVj5FdHEAydY9g6Nn-1200-80.jpg.webp",
+         "title":"League of Legends",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      },
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/7WnKUThZMhp6MeNfdzgnnC-1200-80.jpg.webp",
+         "title":"Valheim",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      },
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/ht3ETkC3NzuGnA9sZYCRkX-1200-80.jpg.webp",
+         "title":"Valorant",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      },
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
+         "title":"No Man's Sky",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      }
+   ],
+
+   "image_interstialads_views":[
+      {"web_url":"https://custom-ads-page-1.blogspot.com/p/interstitial-ad-styles-for-overlay.html"},
+       {"web_url":"https://custom-ads-page-1.blogspot.com/p/interstitial-ad-styles-for-overlay_22.html"}
+      
+   ],
+     "image_interstialads_player_views":[
+      {"web_url":"https://custom-ads-page-1.blogspot.com/p/interstitial-ad-styles-for-overlay.html"},
+       {"web_url":"https://custom-ads-page-1.blogspot.com/p/interstitial-ad-styles-for-overlay_22.html"}
+      
+   ],
+   "impression_interstial_cap_per_second":"1000",
+   "show_title_1":"Home Movie",
+   "folder_1":"All%20Movies%20JSON",
+   "api_title_1":"all_movie",
+   "show_title_2":"Action Movie",
+   "folder_2":"Action%20Movies%20JSON",
+   "api_title_2":"action_movie",
+   "show_title_3":"Drama Movie",
+   "folder_3":"Drama%20Movies%20JSON",
+   "api_title_3":"drama_movie",
+   "show_title_4":"Comedy",
+   "folder_4":"Comedy%20Movies%20JSON",
+   "api_title_4":"comedy_movie",
+   "show_title_5":"Animation",
+   "folder_5":"Animation%20Movies%20JSON",
+   "api_title_5":"animation_movie",
+   "update_title":"",
+   "update_icon":"",
+   "update_message":"",
+   "update_force":false,
+   "update_versionCode":1,
+   "playstore_link":"",
+   "download_link":""
 }
