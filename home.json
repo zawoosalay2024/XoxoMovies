@@ -7,7 +7,8 @@
    "startapp_end_adviews":"true",
    "startapp_player_top_adviews":"true",
    "startapp_player_loader_adviews":"true",
-   
+   "startapp_detail_top_adviews":"true",
+   "startapp_detail_big_adviews":"true",
 
 
    
@@ -29,36 +30,6 @@
          "title":"Dark Site",
          "actiontitle":"Install",
          "url":"https://play.google.com/store/apps/details?id=com.plustv.nk"
-      },
-      {
-         "image_url":"https://play-lh.googleusercontent.com/ErrY6tzHNKKZIsTqoa9Lz4qQxlYzjglV3deYvzMLgSv-CYqP1hjcEAC4C7odbDYu8g=s64-rw",
-         "title":"Dark Plus",
-         "actiontitle":"Install",
-         "url":"https://play.google.com/store/apps/details?id=com.my.DarkPlusMovie"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/9hDKdsVj5FdHEAydY9g6Nn-1200-80.jpg.webp",
-         "title":"League of Legends",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/7WnKUThZMhp6MeNfdzgnnC-1200-80.jpg.webp",
-         "title":"Valheim",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/ht3ETkC3NzuGnA9sZYCRkX-1200-80.jpg.webp",
-         "title":"Valorant",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
-         "title":"No Man's Sky",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
       }
    ],
    "service_adviews":[
@@ -68,24 +39,7 @@
          "actiontitle":"Install",
          "url":"https://play.google.com/store/apps/details?id=com.lotee.aktv&hl=en_US"
       },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/9hDKdsVj5FdHEAydY9g6Nn-1200-80.jpg.webp",
-         "title":"League of Legends",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/7WnKUThZMhp6MeNfdzgnnC-1200-80.jpg.webp",
-         "title":"Valheim",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/ht3ETkC3NzuGnA9sZYCRkX-1200-80.jpg.webp",
-         "title":"Valorant",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
+
       {
          "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
          "title":"No Man's Sky",
@@ -94,24 +48,7 @@
       }
    ],
    "end_adviews":[
-      {
-         "image_url":"https://play-lh.googleusercontent.com/s4T-N9yIKlhlTKcKI7pcek-RXeDGpg_hQOv25znLl-rF2eRLxNYSb6Fqust5p4W7PA=w240-h480-rw",
-         "title":"Ak Tv App,download and watch,Have a good day",
-         "actiontitle":"Install",
-         "url":"https://play.google.com/store/apps/details?id=com.lotee.aktv&hl=en_US"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/9hDKdsVj5FdHEAydY9g6Nn-1200-80.jpg.webp",
-         "title":"League of Legends",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/7WnKUThZMhp6MeNfdzgnnC-1200-80.jpg.webp",
-         "title":"Valheim",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
+   
       {
          "image_url":"https://cdn.mos.cms.futurecdn.net/ht3ETkC3NzuGnA9sZYCRkX-1200-80.jpg.webp",
          "title":"Valorant",
@@ -126,30 +63,14 @@
       }
    ],
    "player_top_adviews":[
-      {
-         "image_url":"https://play-lh.googleusercontent.com/s4T-N9yIKlhlTKcKI7pcek-RXeDGpg_hQOv25znLl-rF2eRLxNYSb6Fqust5p4W7PA=w240-h480-rw",
-         "title":"Ak Tv App,download and watch,Have a good day",
-         "actiontitle":"Install",
-         "url":"https://play.google.com/store/apps/details?id=com.lotee.aktv&hl=en_US"
-      },
+     
       {
          "image_url":"https://cdn.mos.cms.futurecdn.net/9hDKdsVj5FdHEAydY9g6Nn-1200-80.jpg.webp",
          "title":"League of Legends",
          "actiontitle":"Play",
          "url":"https://www.gamesradar.com/best-online-games/"
       },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/7WnKUThZMhp6MeNfdzgnnC-1200-80.jpg.webp",
-         "title":"Valheim",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/ht3ETkC3NzuGnA9sZYCRkX-1200-80.jpg.webp",
-         "title":"Valorant",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
+      
       {
          "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
          "title":"No Man's Sky",
@@ -158,30 +79,7 @@
       }
    ],
     "player_loader_adviews":[
-      {
-         "image_url":"https://play-lh.googleusercontent.com/s4T-N9yIKlhlTKcKI7pcek-RXeDGpg_hQOv25znLl-rF2eRLxNYSb6Fqust5p4W7PA=w240-h480-rw",
-         "title":"Ak Tv App,download and watch,Have a good day",
-         "actiontitle":"Install",
-         "url":"https://play.google.com/store/apps/details?id=com.lotee.aktv&hl=en_US"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/9hDKdsVj5FdHEAydY9g6Nn-1200-80.jpg.webp",
-         "title":"League of Legends",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/7WnKUThZMhp6MeNfdzgnnC-1200-80.jpg.webp",
-         "title":"Valheim",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/ht3ETkC3NzuGnA9sZYCRkX-1200-80.jpg.webp",
-         "title":"Valorant",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
+    
       {
          "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
          "title":"No Man's Sky",
@@ -189,7 +87,31 @@
          "url":"https://www.gamesradar.com/best-online-games/"
       }
    ],
-
+     "detail_top_adviews":[
+    
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
+         "title":"No Man's Sky",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      }
+   ],
+   "detail_bottom_adviews":[
+     
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/9hDKdsVj5FdHEAydY9g6Nn-1200-80.jpg.webp",
+         "title":"League of Legends",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      },
+      
+      {
+         "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
+         "title":"No Man's Sky",
+         "actiontitle":"Play",
+         "url":"https://www.gamesradar.com/best-online-games/"
+      }
+   ],
    "image_interstialads_views":[
       {"web_url":"https://custom-ads-page-1.blogspot.com/p/interstitial-ad-styles-for-overlay.html"},
        {"web_url":"https://custom-ads-page-1.blogspot.com/p/interstitial-ad-styles-for-overlay_22.html"}
