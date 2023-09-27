@@ -1,5 +1,5 @@
 {
-   "ad_type":"2",
+   "ad_type":"startapp,custom",
    "ad_duration":"1000",
    "startapp_add":"true",
    "startapp_custom_adviews":"true",
