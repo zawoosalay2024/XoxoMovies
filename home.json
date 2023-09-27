@@ -1,4 +1,16 @@
 {
+   "ad_type":"2",
+   "ad_duration":"1000",
+   "startapp_add":"true",
+   "startapp_custom_adviews":"true",
+   "startapp_service_adviews":"true",
+   "startapp_end_adviews":"true",
+   "startapp_player_top_adviews":"true",
+   "startapp_player_loader_adviews":"true",
+   
+
+
+   
    "slide_images":[
       {
          "image_url":"https://my-test-11.slatic.net/p/66f1154bad6c79ba34d21fb324539404.jpg",
