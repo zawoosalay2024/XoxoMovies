@@ -6,7 +6,7 @@
    "startapp_service_adviews":"true",
    "startapp_end_adviews":"true",
    "startapp_player_top_adviews":"true",
-   "startapp_player_loader_adviews":"true",
+   "startapp_player_loader_adviews":"false",
    "startapp_detail_top_adviews":"true",
    "startapp_detail_big_adviews":"true",
 
@@ -80,12 +80,8 @@
    ],
     "player_loader_adviews":[
     
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
-         "title":"No Man's Sky",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      }
+      
+   
    ],
      "detail_top_adviews":[
     
