@@ -1,14 +1,14 @@
 {
-   "ad_type":"startapp,custom",
+   "ad_type":"startapp",
    "ad_duration":"1000",
-   "startapp_add":"true",
-   "startapp_custom_adviews":"true",
-   "startapp_service_adviews":"true",
-   "startapp_end_adviews":"true",
-   "startapp_player_top_adviews":"true",
+   "startapp_add":"false",
+   "startapp_custom_adviews":"false",
+   "startapp_service_adviews":"false",
+   "startapp_end_adviews":"false",
+   "startapp_player_top_adviews":"false",
    "startapp_player_loader_adviews":"false",
-   "startapp_detail_top_adviews":"true",
-   "startapp_detail_big_adviews":"true",
+   "startapp_detail_top_adviews":"false",
+   "startapp_detail_big_adviews":"false",
 
 
    
@@ -19,64 +19,16 @@
       }
    ],
    "custom_adviews":[
-      {
-         "image_url":"https://play-lh.googleusercontent.com/s4T-N9yIKlhlTKcKI7pcek-RXeDGpg_hQOv25znLl-rF2eRLxNYSb6Fqust5p4W7PA=w240-h480-rw",
-         "title":"Ak Tv App,download and watch,Have a good day",
-         "actiontitle":"Install",
-         "url":"https://play.google.com/store/apps/details?id=com.lotee.aktv&hl=en_US"
-      },
-      {
-         "image_url":"https://play-lh.googleusercontent.com/uIcvgk8haGqcrOn5VflTydEW8LrmGFQkDe5VkLifCpnQi4meReASMO3ZJ0VFHhlsTcQ=s64-rw",
-         "title":"Dark Site",
-         "actiontitle":"Install",
-         "url":"https://play.google.com/store/apps/details?id=com.plustv.nk"
-      }
+     
    ],
    "service_adviews":[
-      {
-         "image_url":"https://play-lh.googleusercontent.com/s4T-N9yIKlhlTKcKI7pcek-RXeDGpg_hQOv25znLl-rF2eRLxNYSb6Fqust5p4W7PA=w240-h480-rw",
-         "title":"Ak Tv App,download and watch,Have a good day",
-         "actiontitle":"Install",
-         "url":"https://play.google.com/store/apps/details?id=com.lotee.aktv&hl=en_US"
-      },
-
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
-         "title":"No Man's Sky",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      }
+     
    ],
    "end_adviews":[
    
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/ht3ETkC3NzuGnA9sZYCRkX-1200-80.jpg.webp",
-         "title":"Valorant",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
-         "title":"No Man's Sky",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      }
    ],
    "player_top_adviews":[
      
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/9hDKdsVj5FdHEAydY9g6Nn-1200-80.jpg.webp",
-         "title":"League of Legends",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
-         "title":"No Man's Sky",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      }
    ],
     "player_loader_adviews":[
     
@@ -85,34 +37,15 @@
    ],
      "detail_top_adviews":[
     
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
-         "title":"No Man's Sky",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      }
    ],
    "detail_bottom_adviews":[
-     
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/9hDKdsVj5FdHEAydY9g6Nn-1200-80.jpg.webp",
-         "title":"League of Legends",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
-         "title":"No Man's Sky",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      }
+    
    ],
    "image_interstialads_views":[
       
    ],
      "image_interstialads_player_views":[
-     
+     {"web_url":"https://custom-ads-page.blogspot.com/p/interstitial-ad-styles-for-overlay_22.html"}
    ],
    "impression_interstial_cap_per_second":"1000",
    "show_title_1":"Home Movie",
