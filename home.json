@@ -2,13 +2,13 @@
    "ad_type":"startapp",
    "ad_duration":"1000",
    "startapp_add":"false",
-   "startapp_custom_adviews":"false",
-   "startapp_service_adviews":"false",
-   "startapp_end_adviews":"false",
-   "startapp_player_top_adviews":"false",
-   "startapp_player_loader_adviews":"false",
-   "startapp_detail_top_adviews":"false",
-   "startapp_detail_big_adviews":"false",
+   "startapp_custom_adviews":"true",
+   "startapp_service_adviews":"true",
+   "startapp_end_adviews":"true",
+   "startapp_player_top_adviews":"true",
+   "startapp_player_loader_adviews":"true",
+   "startapp_detail_top_adviews":"true",
+   "startapp_detail_big_adviews":"true",
 
 
    
