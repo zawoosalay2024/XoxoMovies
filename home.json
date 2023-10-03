@@ -10,7 +10,7 @@
    "startapp_detail_top_adviews":"true",
    "startapp_detail_big_adviews":"true",
    "remove_ads_url":"https://custom-ads-page.blogspot.com/p/remove-ads.html",
-   "vip_list_url":"",
+   "vip_list_url":"https://custom-ads-page.blogspot.com/feeds/posts/default/?q=label:vip_key_oct&alt=json",
 
    
    "slide_images":[
