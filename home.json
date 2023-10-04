@@ -1,7 +1,7 @@
 {
    "ad_type":"startapp",
    "ad_duration":"1000",
-   "startapp_add":"false",
+   "startapp_add":"true",
    "startapp_custom_adviews":"true",
    "startapp_service_adviews":"true",
    "startapp_end_adviews":"true",
