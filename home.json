@@ -20,27 +20,57 @@
       }
    ],
    "custom_adviews":[
+      {  "image_url":"https://i.pinimg.com/564x/44/69/c7/4469c769cb0d648dedccabe24d6fab8e.jpg",
+         "title":"custom_adviews",
+         "actiontitle":"",
+         "url":""
+      }
      
    ],
    "service_adviews":[
+       {  "image_url":"https://i.pinimg.com/564x/44/69/c7/4469c769cb0d648dedccabe24d6fab8e.jpg",
+         "title":"service_adviews",
+         "actiontitle":"",
+         "url":""
+      }
      
    ],
    "end_adviews":[
+       {  "image_url":"https://i.pinimg.com/564x/44/69/c7/4469c769cb0d648dedccabe24d6fab8e.jpg",
+         "title":"end_adviews",
+         "actiontitle":"",
+         "url":""
+      }
    
    ],
    "player_top_adviews":[
+       {  "image_url":"https://i.pinimg.com/564x/44/69/c7/4469c769cb0d648dedccabe24d6fab8e.jpg",
+         "title":"player_top_adviews",
+         "actiontitle":"",
+         "url":""
+      }
      
    ],
     "player_loader_adviews":[
-    
-      
-   
+     {  "image_url":"https://i.pinimg.com/564x/44/69/c7/4469c769cb0d648dedccabe24d6fab8e.jpg",
+         "title":"player_loader_adviews",
+         "actiontitle":"",
+         "url":""
+      }
    ],
      "detail_top_adviews":[
-    
+     {  "image_url":"https://i.pinimg.com/564x/44/69/c7/4469c769cb0d648dedccabe24d6fab8e.jpg",
+         "title":"detail_top_adviews",
+         "actiontitle":"",
+         "url":""
+      }
    ],
    "detail_bottom_adviews":[
-    
+     {  "image_url":"https://i.pinimg.com/564x/44/69/c7/4469c769cb0d648dedccabe24d6fab8e.jpg",
+         "title":"detail_bottom_adviews",
+         "actiontitle":"",
+         "url":""
+      }
    ],
    "image_interstialads_views":[
        {"web_url":"https://custom-ads-page.blogspot.com/p/interstitial-ad-styles-for-overlay_22.html"}
