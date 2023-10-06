@@ -22,7 +22,7 @@
    "custom_adviews":[
       {  "image_url":"https://i.pinimg.com/564x/44/69/c7/4469c769cb0d648dedccabe24d6fab8e.jpg",
          "title":"custom_adviews",
-         "actiontitle":"",
+         "actiontitle":"Go",
          "url":""
       }
      
@@ -61,7 +61,7 @@
      "detail_top_adviews":[
      {  "image_url":"https://i.pinimg.com/564x/44/69/c7/4469c769cb0d648dedccabe24d6fab8e.jpg",
          "title":"detail_top_adviews",
-         "actiontitle":"",
+         "actiontitle":"Vist",
          "url":""
       }
    ],
@@ -94,11 +94,11 @@
    "show_title_5":"Animation",
    "folder_5":"Animation%20Movies%20JSON",
    "api_title_5":"animation_movie",
-   "update_title":"",
+   "update_title":"Update title",
    "update_icon":"",
-   "update_message":"",
+   "update_message":"Update message",
    "update_force":false,
-   "update_versionCode":1,
+   "update_versionCode":2,
    "playstore_link":"",
    "download_link":""
 }
