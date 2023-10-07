@@ -98,7 +98,7 @@
    "update_icon":"",
    "update_message":"Update message",
    "update_force":false,
-   "update_versionCode":2,
+   "update_versionCode":1,
    "playstore_link":"",
    "download_link":""
 }
