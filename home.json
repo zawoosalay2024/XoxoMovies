@@ -2,9 +2,12 @@
    "ad_type":"startapp",
    "ad_duration":"1000",
    "startapp_add":"true",
-   "startapp_custom_adviews":"true",
-   "startapp_service_adviews":"true",
-   "startapp_end_adviews":"true",
+   "startapp_home_adview_1":"true",
+   "startapp_home_adview_2":"true",
+   "startapp_home_adview_3":"true",
+   "startapp_home_adview_4":"true",
+   "startapp_home_adview_5":"true",
+   "startapp_home_adview_6":"true",
    "startapp_player_top_adviews":"true",
    "startapp_player_loader_adviews":"true",
    "startapp_detail_top_adviews":"true",
@@ -27,24 +30,48 @@
          "redirect_url":""
       }
    ],
-   "custom_adviews":[
-      {  "image_url":"https://i.pinimg.com/564x/44/69/c7/4469c769cb0d648dedccabe24d6fab8e.jpg",
+   "home_adview_1":[
+      {  "image_url":"https://i.imgur.com/uPsk14U.gif",
          "title":"custom_adviews",
          "actiontitle":"Go",
          "url":""
       }
      
    ],
-   "service_adviews":[
-       {  "image_url":"https://i.pinimg.com/564x/44/69/c7/4469c769cb0d648dedccabe24d6fab8e.jpg",
+   "home_adview_2":[
+       {  "image_url":"https://i.imgur.com/uPsk14U.gif",
          "title":"service_adviews",
          "actiontitle":"",
          "url":""
       }
      
    ],
-   "end_adviews":[
-       {  "image_url":"https://i.pinimg.com/564x/44/69/c7/4469c769cb0d648dedccabe24d6fab8e.jpg",
+   "home_adview_3":[
+       {  "image_url":"https://i.imgur.com/uPsk14U.gif",
+         "title":"end_adviews",
+         "actiontitle":"",
+         "url":""
+      }
+   
+   ],
+    "home_adview_4":[
+      {  "image_url":"https://i.imgur.com/uPsk14U.gif",
+         "title":"custom_adviews",
+         "actiontitle":"Go",
+         "url":""
+      }
+     
+   ],
+   "home_adview_5":[
+       {  "image_url":"https://i.imgur.com/uPsk14U.gif",
+         "title":"service_adviews",
+         "actiontitle":"",
+         "url":""
+      }
+     
+   ],
+   "home_adview_6":[
+       {  "image_url":"https://i.imgur.com/uPsk14U.gif",
          "title":"end_adviews",
          "actiontitle":"",
          "url":""
@@ -52,7 +79,7 @@
    
    ],
    "player_top_adviews":[
-       {  "image_url":"https://i.pinimg.com/564x/44/69/c7/4469c769cb0d648dedccabe24d6fab8e.jpg",
+       {  "image_url":"https://i.imgur.com/uPsk14U.gif",
          "title":"player_top_adviews",
          "actiontitle":"",
          "url":""
@@ -60,21 +87,21 @@
      
    ],
     "player_loader_adviews":[
-     {  "image_url":"https://i.pinimg.com/564x/44/69/c7/4469c769cb0d648dedccabe24d6fab8e.jpg",
+     {  "image_url":"https://i.imgur.com/uPsk14U.gif",
          "title":"player_loader_adviews",
          "actiontitle":"",
          "url":""
       }
    ],
      "detail_top_adviews":[
-     {  "image_url":"https://i.pinimg.com/564x/44/69/c7/4469c769cb0d648dedccabe24d6fab8e.jpg",
+     {  "image_url":"https://i.imgur.com/uPsk14U.gif",
          "title":"detail_top_adviews",
          "actiontitle":"Vist",
          "url":""
       }
    ],
    "detail_bottom_adviews":[
-     {  "image_url":"https://i.pinimg.com/564x/44/69/c7/4469c769cb0d648dedccabe24d6fab8e.jpg",
+     {  "image_url":"https://i.imgur.com/uPsk14U.gif",
          "title":"detail_bottom_adviews",
          "actiontitle":"",
          "url":""
