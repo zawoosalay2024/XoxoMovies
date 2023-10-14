@@ -1,192 +1,117 @@
 {
+   "ad_type":"startapp",
+   "ad_duration":"1000",
+   "startapp_add":"true",
+   "startapp_home_adview_1":"true",
+   "startapp_home_adview_2":"true",
+   "startapp_home_adview_3":"true",
+   "startapp_home_adview_4":"true",
+   "startapp_home_adview_5":"true",
+   "startapp_home_adview_6":"true",
+   "startapp_player_top_adviews":"true",
+   "startapp_player_loader_adviews":"true",
+   "startapp_detail_top_adviews":"true",
+   "startapp_detail_big_adviews":"true",
+   "remove_ads_url":"https://custom-ads-page.blogspot.com/p/remove-ads.html",
+   "vip_list_url":"https://custom-ads-page.blogspot.com/feeds/posts/default/?q=label:vip_key_oct&alt=json",
+
+   
    "slide_images":[
       {
+         "image_url":"https://cdn.marvel.com/content/1x/antmanandthewaspquantumania_lob_crd_03.jpg",
+         "redirect_url":"https://www.google.com/search?q=movie&oq=movi&gs_lcrp=EgZjaHJvbWUqCwgAEEUYJxg7GIoFMgsIABBFGCcYOxiKBTIGCAEQRRg5MgoIAhAuGLEDGIAEMg0IAxAuGIMBGLEDGIAEMgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxBFGEHSAQgxNTcyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8"
+      },
+       {
          "image_url":"https://my-test-11.slatic.net/p/66f1154bad6c79ba34d21fb324539404.jpg",
+         "redirect_url":""
+      },
+       {
+         "image_url":"https://cdn.vox-cdn.com/thumbor/IeSzP2Y1-RlYo9xEVvluKFjAFxQ=/0x0:3840x2001/1200x675/filters:focal(1613x694:2227x1308)/cdn.vox-cdn.com/uploads/chorus_image/image/70569082/RRR_Still_5.36.jpg",
          "redirect_url":""
       }
    ],
-   "custom_adviews":[
-      {
-         "image_url":"https://play-lh.googleusercontent.com/s4T-N9yIKlhlTKcKI7pcek-RXeDGpg_hQOv25znLl-rF2eRLxNYSb6Fqust5p4W7PA=w240-h480-rw",
-         "title":"Ak Tv App,download and watch,Have a good day",
-         "actiontitle":"Install",
-         "url":"https://play.google.com/store/apps/details?id=com.lotee.aktv&hl=en_US"
-      },
-      {
-         "image_url":"https://play-lh.googleusercontent.com/uIcvgk8haGqcrOn5VflTydEW8LrmGFQkDe5VkLifCpnQi4meReASMO3ZJ0VFHhlsTcQ=s64-rw",
-         "title":"Dark Site",
-         "actiontitle":"Install",
-         "url":"https://play.google.com/store/apps/details?id=com.plustv.nk"
-      },
-      {
-         "image_url":"https://play-lh.googleusercontent.com/ErrY6tzHNKKZIsTqoa9Lz4qQxlYzjglV3deYvzMLgSv-CYqP1hjcEAC4C7odbDYu8g=s64-rw",
-         "title":"Dark Plus",
-         "actiontitle":"Install",
-         "url":"https://play.google.com/store/apps/details?id=com.my.DarkPlusMovie"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/9hDKdsVj5FdHEAydY9g6Nn-1200-80.jpg.webp",
-         "title":"League of Legends",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/7WnKUThZMhp6MeNfdzgnnC-1200-80.jpg.webp",
-         "title":"Valheim",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/ht3ETkC3NzuGnA9sZYCRkX-1200-80.jpg.webp",
-         "title":"Valorant",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
-         "title":"No Man's Sky",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
+   "home_adview_1":[
+      {  "image_url":"https://i.imgur.com/uPsk14U.gif",
+         "title":"custom_adviews",
+         "actiontitle":"Go",
+         "url":""
       }
+     
    ],
-   "service_adviews":[
-      {
-         "image_url":"https://play-lh.googleusercontent.com/s4T-N9yIKlhlTKcKI7pcek-RXeDGpg_hQOv25znLl-rF2eRLxNYSb6Fqust5p4W7PA=w240-h480-rw",
-         "title":"Ak Tv App,download and watch,Have a good day",
-         "actiontitle":"Install",
-         "url":"https://play.google.com/store/apps/details?id=com.lotee.aktv&hl=en_US"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/9hDKdsVj5FdHEAydY9g6Nn-1200-80.jpg.webp",
-         "title":"League of Legends",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/7WnKUThZMhp6MeNfdzgnnC-1200-80.jpg.webp",
-         "title":"Valheim",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/ht3ETkC3NzuGnA9sZYCRkX-1200-80.jpg.webp",
-         "title":"Valorant",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
-         "title":"No Man's Sky",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
+   "home_adview_2":[
+       {  "image_url":"https://i.imgur.com/uPsk14U.gif",
+         "title":"service_adviews",
+         "actiontitle":"",
+         "url":""
       }
+     
    ],
-   "end_adviews":[
-      {
-         "image_url":"https://play-lh.googleusercontent.com/s4T-N9yIKlhlTKcKI7pcek-RXeDGpg_hQOv25znLl-rF2eRLxNYSb6Fqust5p4W7PA=w240-h480-rw",
-         "title":"Ak Tv App,download and watch,Have a good day",
-         "actiontitle":"Install",
-         "url":"https://play.google.com/store/apps/details?id=com.lotee.aktv&hl=en_US"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/9hDKdsVj5FdHEAydY9g6Nn-1200-80.jpg.webp",
-         "title":"League of Legends",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/7WnKUThZMhp6MeNfdzgnnC-1200-80.jpg.webp",
-         "title":"Valheim",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/ht3ETkC3NzuGnA9sZYCRkX-1200-80.jpg.webp",
-         "title":"Valorant",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
-         "title":"No Man's Sky",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
+   "home_adview_3":[
+       {  "image_url":"https://i.imgur.com/uPsk14U.gif",
+         "title":"end_adviews",
+         "actiontitle":"",
+         "url":""
       }
+   
+   ],
+    "home_adview_4":[
+      {  "image_url":"https://i.imgur.com/uPsk14U.gif",
+         "title":"custom_adviews",
+         "actiontitle":"Go",
+         "url":""
+      }
+     
+   ],
+   "home_adview_5":[
+       {  "image_url":"https://i.imgur.com/uPsk14U.gif",
+         "title":"service_adviews",
+         "actiontitle":"",
+         "url":""
+      }
+     
+   ],
+   "home_adview_6":[
+       {  "image_url":"https://i.imgur.com/uPsk14U.gif",
+         "title":"end_adviews",
+         "actiontitle":"",
+         "url":""
+      }
+   
    ],
    "player_top_adviews":[
-      {
-         "image_url":"https://play-lh.googleusercontent.com/s4T-N9yIKlhlTKcKI7pcek-RXeDGpg_hQOv25znLl-rF2eRLxNYSb6Fqust5p4W7PA=w240-h480-rw",
-         "title":"Ak Tv App,download and watch,Have a good day",
-         "actiontitle":"Install",
-         "url":"https://play.google.com/store/apps/details?id=com.lotee.aktv&hl=en_US"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/9hDKdsVj5FdHEAydY9g6Nn-1200-80.jpg.webp",
-         "title":"League of Legends",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/7WnKUThZMhp6MeNfdzgnnC-1200-80.jpg.webp",
-         "title":"Valheim",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/ht3ETkC3NzuGnA9sZYCRkX-1200-80.jpg.webp",
-         "title":"Valorant",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
-         "title":"No Man's Sky",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
+       {  "image_url":"https://i.imgur.com/uPsk14U.gif",
+         "title":"player_top_adviews",
+         "actiontitle":"",
+         "url":""
       }
+     
    ],
     "player_loader_adviews":[
-      {
-         "image_url":"https://play-lh.googleusercontent.com/s4T-N9yIKlhlTKcKI7pcek-RXeDGpg_hQOv25znLl-rF2eRLxNYSb6Fqust5p4W7PA=w240-h480-rw",
-         "title":"Ak Tv App,download and watch,Have a good day",
-         "actiontitle":"Install",
-         "url":"https://play.google.com/store/apps/details?id=com.lotee.aktv&hl=en_US"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/9hDKdsVj5FdHEAydY9g6Nn-1200-80.jpg.webp",
-         "title":"League of Legends",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/7WnKUThZMhp6MeNfdzgnnC-1200-80.jpg.webp",
-         "title":"Valheim",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/ht3ETkC3NzuGnA9sZYCRkX-1200-80.jpg.webp",
-         "title":"Valorant",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
-      },
-      {
-         "image_url":"https://cdn.mos.cms.futurecdn.net/6esqyQyRaaTxMVMsXTW53o-1200-80.jpg.webp",
-         "title":"No Man's Sky",
-         "actiontitle":"Play",
-         "url":"https://www.gamesradar.com/best-online-games/"
+     {  "image_url":"https://i.imgur.com/uPsk14U.gif",
+         "title":"player_loader_adviews",
+         "actiontitle":"",
+         "url":""
       }
    ],
-
+     "detail_top_adviews":[
+     {  "image_url":"https://i.imgur.com/uPsk14U.gif",
+         "title":"detail_top_adviews",
+         "actiontitle":"Vist",
+         "url":""
+      }
+   ],
+   "detail_bottom_adviews":[
+     {  "image_url":"https://i.imgur.com/uPsk14U.gif",
+         "title":"detail_bottom_adviews",
+         "actiontitle":"",
+         "url":""
+      }
+   ],
    "image_interstialads_views":[
-      {"web_url":"https://custom-ads-page-1.blogspot.com/p/interstitial-ad-styles-for-overlay.html"},
-       {"web_url":"https://custom-ads-page-1.blogspot.com/p/interstitial-ad-styles-for-overlay_22.html"}
-      
+       {"web_url":"https://custom-ads-page.blogspot.com/p/interstitial-ad-styles-for-overlay_22.html"}
    ],
      "image_interstialads_player_views":[
-      {"web_url":"https://custom-ads-page-1.blogspot.com/p/interstitial-ad-styles-for-overlay.html"},
-       {"web_url":"https://custom-ads-page-1.blogspot.com/p/interstitial-ad-styles-for-overlay_22.html"}
-      
+     {"web_url":"https://custom-ads-page.blogspot.com/p/interstitial-ad-styles-for-overlay_22.html"}
    ],
    "impression_interstial_cap_per_second":"1000",
    "show_title_1":"Home Movie",
@@ -204,9 +129,9 @@
    "show_title_5":"Animation",
    "folder_5":"Animation%20Movies%20JSON",
    "api_title_5":"animation_movie",
-   "update_title":"",
+   "update_title":"Update title",
    "update_icon":"",
-   "update_message":"",
+   "update_message":"Update message",
    "update_force":false,
    "update_versionCode":1,
    "playstore_link":"",
