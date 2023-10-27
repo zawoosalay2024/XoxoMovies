@@ -18,18 +18,10 @@
    "remove_ads_url":"https://custom-ads-page.blogspot.com/p/remove-ads.html",
    "vip_list_url":"https://custom-ads-page.blogspot.com/feeds/posts/default/?q=label:vip_key_oct&alt=json",
    "slide_images":[
-      {
-         "image_url":"https://cdn.marvel.com/content/1x/antmanandthewaspquantumania_lob_crd_03.jpg",
-         "redirect_url":"https://www.google.com/search?q=movie&oq=movi&gs_lcrp=EgZjaHJvbWUqCwgAEEUYJxg7GIoFMgsIABBFGCcYOxiKBTIGCAEQRRg5MgoIAhAuGLEDGIAEMg0IAxAuGIMBGLEDGIAEMgYIBBBFGDwyBggFEEUYPDIGCAYQRRg8MgYIBxBFGEHSAQgxNTcyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8"
-      },
-      {
-         "image_url":"https://my-test-11.slatic.net/p/66f1154bad6c79ba34d21fb324539404.jpg",
-         "redirect_url":""
-      },
-      {
-         "image_url":"https://cdn.vox-cdn.com/thumbor/IeSzP2Y1-RlYo9xEVvluKFjAFxQ=/0x0:3840x2001/1200x675/filters:focal(1613x694:2227x1308)/cdn.vox-cdn.com/uploads/chorus_image/image/70569082/RRR_Still_5.36.jpg",
-         "redirect_url":""
-      }
+      {  "image_url":"https://imgur.com/a/AcjsjwG.png",  "redirect_url":"https://bit.ly/zozotvapp" 
+       },
+ {  "image_url":"https://imgur.io/a/ZdadNC1.jpg",  "redirect_url":"https://www.facebook.com/profile.php?id=61552566309360&mibextid=ZbWKwL" 
+       }
    ],
    "home_adview_1":[
       
