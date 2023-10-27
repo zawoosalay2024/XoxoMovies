@@ -18,10 +18,12 @@
    "remove_ads_url":"https://custom-ads-page.blogspot.com/p/remove-ads.html",
    "vip_list_url":"https://custom-ads-page.blogspot.com/feeds/posts/default/?q=label:vip_key_oct&alt=json",
    "slide_images":[
-      {  "image_url":"https://imgur.com/a/AcjsjwG.png",  "redirect_url":"https://bit.ly/zozotvapp" 
+      
+ {  "image_url":"https://imgur.com/emBIHI0.png",  "redirect_url":"https://bit.ly/zozotvapp" 
        },
- {  "image_url":"https://imgur.io/a/ZdadNC1.jpg",  "redirect_url":"https://www.facebook.com/profile.php?id=61552566309360&mibextid=ZbWKwL" 
+ {  "image_url":"https://imgur.com/j6PWMb4.jpg",  "redirect_url":"https://www.facebook.com/profile.php?id=61552566309360&mibextid=ZbWKwL" 
        }
+
    ],
    "home_adview_1":[
       
