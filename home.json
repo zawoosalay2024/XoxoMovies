@@ -77,6 +77,10 @@
    "show_title_5":"Animation",
    "folder_5":"Animation%20Movies%20JSON",
    "api_title_5":"animation_movie",
+
+    "megaup_version":"2",
+    "megaup_with":"leetdev",
+   
    "update_title":"Update title",
    "update_icon":"",
    "update_message":"Update message",
